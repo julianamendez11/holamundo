@@ -1,8 +1,9 @@
 # holamundo
-##Subtitulo
-##Pequeña sección
+## Subtitulo
+
+## Pequeña sección
 primer repositorio de metodos
 
-*primer elemento de una lista
-*segundo elemento
-*tercer elemento
+* primer elemento de una lista
+* segundo elemento
+* tercer elemento
